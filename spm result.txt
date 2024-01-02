@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+
+<meta>
+<head>
+<style>
+body {
+  background-color: #F0FFF0;
+}
+</style>
+</head>
+
+</br>
+
+<style>
+    img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+ </style>
+ 
+ <body>
+
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 6px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
+<div class="row">
+  <div class="column">
+    <img src="PT3.jpeg" width="400" height="550">
+  </div>
+  <div class="column">
+    <img src="spm.jpeg" width="400" height="550">
+  </div>
+</div>
+ 
+</br>
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<table width="20%" border="5px" align="right" bgcolor="#FFFFE0" cellspacing="8">
+
+<tr>
+<td width="3%" align="center"><a href="education.html">BACK TO EDUCATION</a></td>
+</td>
+</tr>
+
+
+</html>
